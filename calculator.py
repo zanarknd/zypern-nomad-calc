@@ -13,7 +13,11 @@ The author of this software takes no responsibility whatsoever for any way
 in which you chose to utilize this software or its output, and bears no 
 liability for the consequences of your usage of the software or its output.
 
-Peruse on your own risk. Consult a professional accountant for tax advise.
+This software is not intended or designed to provide accurate tax returns calculations.
+
+Peruse at your own risk.
+
+Consult a professional accountant for tax advise and/or assistance in filing your taxes.
 """
 
 

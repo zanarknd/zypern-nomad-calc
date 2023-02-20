@@ -2,14 +2,22 @@
 
 ## LEGAL DISCLAIMER
 
-Please note that the author of this software is NOT any of the following: 
-financial expert, financial advisor, tax expert, tax advisor, accountant.
+Please note that the author of this software is NOT any of the following:
+1. financial expert
+2. financial advisor
+3. tax expert
+4. tax advisor
+5. accountant
 
 The author of this software takes no responsibility whatsoever for any way 
 in which you chose to utilize this software or its output, and bears no 
 liability for the consequences of your usage of the software or its output.
 
-Peruse on your own risk. Consult a professional accountant for tax advise.
+This software is not intended or designed to provide accurate tax returns calculations.
+
+**Peruse at your own risk.**
+
+Consult a professional accountant for tax advise and/or assistance in filing your taxes.
 
 ## Description
 
@@ -28,7 +36,11 @@ The author of this software takes no responsibility whatsoever for any way
 in which you chose to utilize this software or its output, and bears no
 liability for the consequences of your usage of the software or its output.
 
-Peruse on your own risk. Consult a professional accountant for tax advise.
+This software is not intended or designed to provide accurate tax returns calculations.
+
+Peruse at your own risk.
+
+Consult a professional accountant for tax advise and/or assistance in filing your taxes.
 
 === Personal income tax ===
 In total this year you owe the state €1260.00.
